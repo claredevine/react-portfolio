@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="body">
         <div className="hero">
-        <img src="/clareDevine.jpg" className="App-logo" alt="logo" className="photo" />
+        <img src="/clareDevine.jpg" alt="logo" className="photo" />
           <h1>Clare Devine</h1>
           <h3>Software Developer</h3>
         </div>
